@@ -6,7 +6,8 @@ Press the arrow at the bottom right and go on the slide!
 
 ---
 
-## OnlineMoku2 Mｔｇ（5:00-7:00）
+## OnlineMoku2 Mtg
+### （5:00-7:00）
 
 
 ---
