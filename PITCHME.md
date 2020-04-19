@@ -5,6 +5,12 @@ This slide is a self-introduction pages<br>
 Press the arrow at the bottom right and go on the slide!
 
 ---
+
+## Online Moku2Meet.
+
+
+---
+
 ## Profile
 <p>名前 : 佐々木　大介(Daisuke Sasaki)</p>
 <p>年齢 : 31歳</p>
